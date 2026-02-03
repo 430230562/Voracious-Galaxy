@@ -1,5 +1,5 @@
 VORE = {
-	archetype = BIOLOGICAL
+	archetype = VOREBIOLOGICAL
 
 	leader_age_min = 21
 	leader_age_max = 80
@@ -8,7 +8,7 @@ VORE = {
 		authority = { 
 			NOT = {
 				 value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
-	
+	trait = "trait_organic"
 	graphical_culture = humanoid_01
 	move_pop_sound_effect = "moving_pop_confirmation"
 	
@@ -17,7 +17,7 @@ VORE = {
 }
 
 VORE_FERAL = {
-	archetype = BIOLOGICAL
+	archetype = VOREBIOLOGICAL
 
 	leader_age_min = 21
 	leader_age_max = 80
@@ -26,7 +26,7 @@ VORE_FERAL = {
 		authority = { 
 			NOT = {
 				 value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
-	
+	trait = "trait_organic"
 	graphical_culture = humanoid_01
 	move_pop_sound_effect = "moving_pop_confirmation"
 	
@@ -41,7 +41,7 @@ VORE_FERAL = {
 
 
 VORE_MACHINE = {
-	archetype = MACHINE
+	archetype = VOREMACHINE
 	playable = {
 		OR = {
 			host_has_dlc = "Synthetic Dawn Story Pack"
@@ -86,7 +86,7 @@ VORE_MACHINE = {
 }
 
 VORE_MACHINE_FERAL = {
-	archetype = MACHINE
+	archetype = VOREMACHINE
 
 	playable = {
 		OR = {

@@ -8,7 +8,7 @@
 trait_vore_lethal = {
     cost = 0
     randomized = yes
-    allowed_archetypes = {BIOLOGICAL LITHOID}
+    allowed_archetypes = {VOREBIOLOGICAL}
 
     species_potential_add = {
       always = no
@@ -43,7 +43,7 @@ trait_vore_lethal = {
 trait_vore_safe = {
     cost = 0
     randomized = yes
-    allowed_archetypes = {BIOLOGICAL LITHOID}
+    allowed_archetypes = {VOREBIOLOGICAL}
 
     species_potential_add = {
       always = no
@@ -111,7 +111,7 @@ trait_vore_prey = {
 trait_vore_internal_containment_units = {
   cost = 0
   randomized = yes
-  allowed_archetypes = { ROBOT MACHINE }
+  allowed_archetypes = {VOREMACHINE}
 
   species_potential_add = {
 		always = yes
@@ -137,7 +137,7 @@ trait_vore_internal_containment_units = {
 trait_vore_emergency_biofuel_generators = {
   cost = 0
   randomized = yes
-  allowed_archetypes = { ROBOT MACHINE }
+  allowed_archetypes = {VOREMACHINE}
 
   species_potential_add = {
 		always = yes
