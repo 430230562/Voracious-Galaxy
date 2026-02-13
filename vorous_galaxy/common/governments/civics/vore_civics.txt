@@ -1,50 +1,79 @@
-######################
-###     Civics     ###
-######################
+#Vorish Darwinism
+civic_vore_darwinism = {
+	description = "civic_tooltip_vore_darwinism_effects"
+    icon = "gfx/interface/icons/traits/lethal_predator.dds"
+	potential = { 
+		ethics = { NOT = { value = ethic_gestalt_consciousness } } 
+		authority = { NOT = { value = auth_corporate } }
+		}
+		
+       possible = {
+		ethics = {
+			OR = {
+				text = civic_tooltip_militarist
+				value = ethic_militarist
+				value = ethic_fanatic_militarist
+				}
+			NOR = {
+				text = civic_tooltip_not_xenophile
+				value = ethic_xenophile
+				value = ethic_fanatic_xenophile
+				}
+			}	
+		}
 
-# Apex Predator
-civic_vore_apex_predator = {
-	description = "civic_tooltip_vore_apex_predator_effects"
-	potential = {
-		ethics = { NOT = { value = ethic_gestalt_consciousness } }
+		traits = {
+			trait = trait_vore_lethal
+		}
+
+	random_weight = { base = 5 }
+
+	modifier = {
+		country_naval_cap_mult = 0.15
+		ship_fire_rate_mult = 0.15
+		army_damage_mult = 0.15
+		species_leader_exp_gain = 0.25
+		leader_skill_levels = 2
+		planet_immigration_pull_mult = -0.25
+		country_admin_cap_add = -10
+		pop_growth_speed = -0.10
+		
 	}
+	
+}
+
+
+civic_utopian_prey = {
+	description = "civic_tooltip_utopian_prey_effects"
+	icon = "gfx/interface/icons/traits/prey.dds"
+	potential = { 
+		ethics = { NOT = { value = ethic_gestalt_consciousness } } 
+		authority = { NOT = { value = auth_corporate } }
+		}
+
 	possible = {
 		ethics = {
 			OR = {
-				text = civic_tooltip_xenophobe
-				value = ethic_xenophobe
-				value = ethic_fanatic_xenophobe
+				text = civic_tooltip_pacifist
+				value = ethic_pacifist
+				value = ethic_fanatic_pacifist
+				
 			}
 		}
-		origin = {
-			NOR = {
-				value = origin_syncretic_evolution
-				value = origin_common_ground
-				value = origin_hegemon
-				value = origin_scion
-				value = origin_necrophage
-				value = origin_imperial_fiefdom
-				value = origin_broken_shackles
-			}
-		}
-		}
-	random_weight = { base = @civic_default_random_weight }
-	ai_weight = {
-		base = @ai_civic_default_base_weight
-			modifier = {
-			factor = @ai_civic_personality_mismatch_factor
-			OR = {
-				has_ai_personality = erudite_explorers
-				has_ai_personality = democratic_crusaders
-				has_ai_personality = peaceful_traders
-			}
-		}
-		}
-	modifier = {
-			army_damage_mult = 0.5
-			planet_pops_consumer_goods_upkeep_mult = -0.30
-			
-			
-		}
-}
+	}
 
+	traits = {
+		trait = trait_vore_prey
+	}
+
+	random_weight = { base = 5 }
+	modifier = {
+	country_naval_cap_mult = -0.20
+	ship_fire_rate_mult = -0.10
+	ship_home_territory_fire_rate_mult = 0.40
+	species_leader_exp_gain = -0.15
+	country_unity_produces_mult = 0.25
+	pop_government_ethic_attraction = 0.15
+	}
+
+}
