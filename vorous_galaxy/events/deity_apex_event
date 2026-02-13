@@ -1,0 +1,22 @@
+namespace = deity
+
+country_event = {
+	id = deity.1
+	is_triggered_only = yes
+	hide_window = yes
+
+	trigger = {
+		any_playable_country = {
+		has_origin = civic_voredeity
+		}
+	}
+
+	immediate = {
+		every_playable_country = { limit = { has_origin = civic_voredeity }
+			IF = { limit = { this.ruler = { has_trait = trait_ruler_prey } }
+					this.ruler = { remove_trait = trait_ruler_prey }
+				}
+			this.ruler = { add_ruler_trait = trait_ruler_voredeity }
+		}   
+	}
+}
