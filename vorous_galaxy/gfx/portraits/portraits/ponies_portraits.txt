@@ -24,7 +24,7 @@ portraits = {
 	pony_M_9 = { greeting_sound = "humanoid_portrait_j_female" texturefile = "gfx/models/portraits/ponies/male/anthroponymale9.dds" }
 	pony_M_10 = { greeting_sound = "humanoid_portrait_j_female" texturefile = "gfx/models/portraits/ponies/male/anthroponymale10.dds" }
 	pony_M_11 = { greeting_sound = "humanoid_portrait_j_female" texturefile = "gfx/models/portraits/ponies/male/anthroponymale11.dds" }
-	pony_m_12 = { greeting_sound = "humanoid_portrait_j_female" texturefile = "gfx/models/portraits/ponies/male/anthroponymale12.dds" }
+	pony_M_12 = { greeting_sound = "humanoid_portrait_j_female" texturefile = "gfx/models/portraits/ponies/male/anthroponymale12.dds" }
 	
 	}
 
@@ -262,4 +262,5 @@ pony_M_12
 			}
 		}
 	}
+
 }
