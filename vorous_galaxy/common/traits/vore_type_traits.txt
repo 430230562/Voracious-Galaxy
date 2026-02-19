@@ -37,6 +37,7 @@ trait_vore_lethal = {
 	slave_cost = {
 		energy = -50
 	}
+	ai_weight = {1000}
 }
 
 #Non-lethal vorarephilia
@@ -71,6 +72,7 @@ trait_vore_safe = {
 	slave_cost = {
 		energy = +50
 	}
+	ai_weight = {1000}
 }
 
 # Prey species
@@ -131,6 +133,7 @@ trait_vore_internal_containment_units = {
     planet_jobs_simple_drone_produces_mult = 0.1
     planet_jobs_complex_drone_produces_mult = 0.1
   }
+	ai_weight = {1000}
 }
 
 #Emergency Biofuel Generators
@@ -153,4 +156,5 @@ trait_vore_emergency_biofuel_generators = {
     pop_amenities_usage_mult = 0.1
     planet_pops_robotics_energy_upkeep_mult = 0.25
   }
+	ai_weight = {1000}
 }
