@@ -13,11 +13,6 @@ decision_planet_pred_promotion = {
 			this = { any_owned_pop = {
 				has_trait = trait_vore_lethal
 			} }
-			this = { any_owned_pop = {
-				NOT = {
-					has_trait = trait_vore_lethal
-				}
-			} }
 	}
 
 	allow = {
