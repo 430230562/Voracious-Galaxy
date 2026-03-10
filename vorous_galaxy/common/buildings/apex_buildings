@@ -5,7 +5,11 @@ building_unbirth_chamber_of_rebirth = {
 	add_to_first_building_slot = yes
 
 	category = pop_assembly
-	
+
+building_sets = {
+		unity
+	}
+
 	potential = {
 		exists = owner
 		owner = {
@@ -107,7 +111,11 @@ building_unbirth_temple_of_motherhood = {
 	add_to_first_building_slot = yes
 
 	category = pop_assembly
-	
+
+building_sets = {
+		unity
+	}
+
 	potential = {
 		exists = owner
 		owner = {
