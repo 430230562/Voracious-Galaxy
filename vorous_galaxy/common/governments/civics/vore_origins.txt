@@ -11,7 +11,7 @@ civic_voredeity = {
 					value = auth_oligarchic
 				} }
 				traits = {
-				trait = trait_vore_lethal
+				value = trait_vore_lethal
 		}
 
 	}
@@ -43,16 +43,17 @@ civic_unbirth_absorption = {
 					value = civic_death_cult_corporate
 				}
 			}	
+	traits = {
+		value = trait_vore_lethal
+	}
+
 	}
 
 	playable = {
 		host_has_dlc = "Necroids Species Pack"
 	}
 
-	traits = {
-		trait = trait_vore_lethal
-	}
-
+	
 	random_weight = { base = 5 }
 	description = "civic_tooltip_unbirth_absorption_effects"
 	modifier = {
@@ -63,3 +64,4 @@ civic_unbirth_absorption = {
 	}
 
 }
+
