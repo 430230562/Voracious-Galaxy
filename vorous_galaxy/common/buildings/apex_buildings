@@ -156,7 +156,7 @@ building_sets = {
 	planet_modifier = {
 		planet_stability_add = 10
 		job_unbirth_apprentice_add = 600
-		job_unbirth_apprentice_per_pop = 0.02 # 100 per 1000
+		job_unbirth_apprentice_per_pop = 0.1 # 100 per 1000
 	}
 	
 	resources = {
