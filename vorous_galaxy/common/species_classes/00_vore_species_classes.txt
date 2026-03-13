@@ -1,5 +1,5 @@
 VORE = {
-	archetype = VOREBIOLOGICAL
+	archetype = BIOLOGICAL
 
 	leader_age_min = 21
 	leader_age_max = 80
@@ -17,7 +17,7 @@ VORE = {
 }
 
 VORE_FERAL = {
-	archetype = VOREBIOLOGICAL
+	archetype = BIOLOGICAL
 
 	leader_age_min = 21
 	leader_age_max = 80
@@ -41,7 +41,7 @@ VORE_FERAL = {
 
 
 VORE_MACHINE = {
-	archetype = VOREMACHINE
+	archetype = MACHINE
 	playable = {
 		OR = {
 			host_has_dlc = "Synthetic Dawn Story Pack"
@@ -86,7 +86,7 @@ VORE_MACHINE = {
 }
 
 VORE_MACHINE_FERAL = {
-	archetype = VOREMACHINE
+	archetype = MACHINE
 
 	playable = {
 		OR = {
