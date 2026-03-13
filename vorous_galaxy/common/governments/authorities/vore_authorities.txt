@@ -42,7 +42,8 @@ auth_machine_intelligence = {
 		ethics = {
 			value = ethic_gestalt_consciousness
 		}
-		species_archetype = { value = VOREMACHINE }
+		species_archetype = { OR = { value = VOREMACHINE 
+									value = MACHINE } }
 	}
 	random_weight = {
 		base = 2
@@ -183,4 +184,5 @@ auth_machine_intelligence = {
 			planet_bureaucrats_upkeep_mult = 0.3
 		}
 	}
+
 }
