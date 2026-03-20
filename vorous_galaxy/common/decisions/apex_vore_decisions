@@ -47,8 +47,4 @@ decision_planet_pred_promotion = {
 			}
 		}
 	}
-
-	ai_weight = {
-		weight = 1
-	}
 }
