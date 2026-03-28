@@ -39,7 +39,7 @@ planet_event = {
 		random_owned_pop = {
 			limit = {
 				is_same_species = owner_species
-				has_trait = trait_unbirth
+				has_trait = trait_vore_lethal
 			}
 			species = { save_event_target_as = unbirth_pop_species }
 		}
@@ -207,7 +207,7 @@ planet_event = {
 		owner = {
 			is_ai = yes
 			has_origin = civic_unbirth_absorption
-			has_trait = trait_unbirth
+			has_trait = trait_vore_lethal
 			any_owned_species = {
 				species_can_be_necrophaged = yes
 				NOT = {
