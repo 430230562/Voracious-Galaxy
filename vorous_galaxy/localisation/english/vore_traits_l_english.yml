@@ -7,7 +7,7 @@
  #Lethal Vore
 
  trait_vore_lethal: "Lethal Vorarephilia"
- trait_vore_lethal_desc: "This species has developed increadibly efficient digestion processes, allowing them to consume still living creatures without much harm to themselves. This has resulted in an immensly competative and hostile culture."
+ trait_vore_lethal_desc: "This species has developed incredibly efficient digestion processes, allowing them to consume still living creatures without much harm to themselves. This has resulted in an immensely competitive and hostile culture."
  trait_vore_lethal_effects: "§gOnly the strongest survive.§! \nPop growth speed: §R-0.20%§! \nLeader lifespan: §R-20§! \nLeader experience gain: §G+120%§! \n§gOverpopulation solution§! \nPop food and goods upkeep §G-0.1§! \n§gFailure is not an option§! \nWorker pop production: §G+10%§!"
 
  #Non-lethal Vore
@@ -22,14 +22,14 @@
  trait_vore_prey_effects: "§g''What or flight?''§! \nGround army damage: §R-90%§! \n§gSurvival through quantity.§! \nPop growth speed: §G+25%§! \nPop food upkeep: §R+20%§!" 
 
  #Internal Contaiment Units
- trait_vore_internal_containment_units: "Internal Contaiment Units"
- trait_vore_internal_containment_units_desc: "Whether through intentional design or design error, these robots feature a sizable storage capacity within their chassies, creating a perfect opportunity for ''containment''..."
- trait_vore_internal_containment_units_effects: "§gDesign complications§! \nAssembly reduction: §R -5%§! \nAmmenities usage: §R +10%§! \n§gExtra capacity§! \nJob production: §G+10%§!"
+ trait_vore_internal_containment_units: "Internal Containment Units"
+ trait_vore_internal_containment_units_desc: "Whether through intentional design or design error, these robots feature a sizable storage capacity within their chassis, creating a perfect opportunity for ''containment''..."
+ trait_vore_internal_containment_units_effects: "§gDesign complications§! \nAssembly reduction: §R -5%§! \nAmenities usage: §R +10%§! \n§gExtra capacity§! \nJob production: §G+10%§!"
 
  #Emergency Biofuel Generators
  trait_vore_emergency_biofuel_generators: "Emergency Biofuel Generators"
- trait_vore_emergency_biofuel_generators_desc: "Whether macro, micro or nano collectors, these units are capable to collect and use biomass to porcure power when away from their designated supply."
- trait_vore_emergency_biofuel_generators_effects: "§gLower power draw§! \nPop power upkeep: §G -25%§! \n§gHigher system maintenance§! \nAmmenity usage: §R +10%§!"
+ trait_vore_emergency_biofuel_generators_desc: "Whether macro, micro or nano collectors, these units are capable to collect and use biomass to procure power when away from their designated supply."
+ trait_vore_emergency_biofuel_generators_effects: "§gLower power draw§! \nPop power upkeep: §G -25%§! \n§gHigher system maintenance§! \nAmenity usage: §R +10%§!"
 
 ##############################################
 #                 LEADER TRAITS

@@ -26,7 +26,7 @@
  trait_ruler_expert_predator: "Expert Predator"
  trait_ruler_expert_predator_desc: "§LThis ruler is known as a frightening predator of prolific skill.§!\n"
  trait_ruler_master_predator: "Master Predator"
- trait_ruler_master_predator_desc: "§LThis ruler unquestionably the most powerful predator in the empire, deserving of their title.§!\n"
+ trait_ruler_master_predator_desc: "§LThis ruler is unquestionably the most powerful predator in the empire, deserving of their title.§!\n"
  trait_ruler_prey: "Prey"
  trait_ruler_prey_desc: "§LThis ruler harbors fantasies of being prey.§!\n"
  trait_ruler_motherly: "Motherly"

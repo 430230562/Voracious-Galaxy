@@ -26,12 +26,12 @@
  VORE_INSULT_17: "You might want to know that we invented a new exercise: swallowing several [owner.GetSpeciesSpawnNamePlural] is a great substitute for weights!"
  VORE_INSULT_18: "Could you do an acid wash or two? The recent [from.GetSpeciesAdj] enriched diet has become really popular!"
  VORE_INSULT_19: "Hello, [owner.GetSpeciesNamePlural]. Could you send us another ambassador? The last one was used to test wheter a [from.GetSpeciesNamePlural] body or industrial crusher was faster."
- VORE_INSULT_20: "We never knew mineral supplements could be gotten wholesale untill we met you, [owner.GetSpeciesNamePlural]."
+ VORE_INSULT_20: "We never knew mineral supplements could be gotten wholesale until we met you, [owner.GetSpeciesNamePlural]."
 
  #Insult pred to necroid
  VORE_INSULT_21: "We have eaten roadkill that was fresher than you, [owner.GetSpeciesNamePlural]"
  VORE_INSULT_22: "Urgh, just looking at you makes me throw up my lunch, [owner.GetSpeciesName]. Don't mkae me have to catch it again."
- VORE_INSULT_23: "Your stench can be frelt from behind the screen, [owner.GetSpeciesNamePlural]."
+ VORE_INSULT_23: "Your stench can be felt from behind the screen, [owner.GetSpeciesNamePlural]."
  VORE_INSULT_24: "The sight of you would make even the hungriest [from.GetSpeciesName] reconsider their intent."
  VORE_INSULT_25: "How long would we need to use antibiotics after gulping you, [owner.GetSpeciesNamePlural]?"
  VORE_INSULT_26: "[owner.GetSpeciesNamePlural], we're opening a composting facility and all of you are invited!"
@@ -50,22 +50,22 @@
  VORE_INSULT_37: "We are hosting a business summit. If you want to come, just get into the nearest [from.GetSpeciesAdj] [from.GetSpeciesMouthName]."
  VORE_INSULT_38: "The moment we get hand on your stocks, you [owner.GetSpeciesNamePlural] might want to update your VoredIn."
  VORE_INSULT_39: "We have a new species job posting you might be interested in, [owner.GetSpeciesNamePlural]: Belly filler, no previous experience necessary!"
- VORE_INSULT_40: "Once we're done with the hostile takeover, you will still be stitting at your desks.. as fat, cushioning our asses." # corp to corp exclusive
+ VORE_INSULT_40: "Once we're done with the hostile takeover, you will still be sitting at your desks.. as fat, cushioning our asses." # corp to corp exclusive
 
  #Insult pred to pred
  VORE_INSULT_41: "Your prey might as well be willingly letting them catch you with how bad hunters you are, [owner.GetSpeciesNamePlural]!"
  VORE_INSULT_42: "You call yourself predators, yet we have seen Tiyanki scarier than you."
  VORE_INSULT_43: "Once we start hunting the same prey, you will grow hungry, [owner.GetSpeciesNamePlural]!"
  VORE_INSULT_44: "I wonder, if [owner.GetSpeciesName] and [from.GetSpeciesName] were to hunt each other, how long would it take [from.GetSpeciesName] to digest you?"
- VORE_INSULT_45: "Should [owner.GetSpeciesName] ever dissapear, there would still be the same amount of prey."
+ VORE_INSULT_45: "Should [owner.GetSpeciesName] ever disappear, there would still be the same amount of prey."
  VORE_INSULT_46: "You should be jailed. Thankfully, there is an empty cell just behind my [from.GetSpeciesMouthName]."
- VORE_INSULT_47: "Why don't you come over here, [owner.GetSpeciesNamePlural]? Our stomach are free to show you exactly what a propper predator can do."
+ VORE_INSULT_47: "Why don't you come over here, [owner.GetSpeciesNamePlural]? Our stomach are free to show you exactly what a proper predator can do."
  VORE_INSULT_48: "We're ready to give any [owner.GetSpeciesName] lessons on how to be a proper predator. Of course, they will be rather in depth..."
  VORE_INSULT_49: "You know, some of your prey came to us, [owner.GetSpeciesName]. Seems we're better at some things than you."
- VORE_INSULT_50: "How many times will we have to prove we are better, [owner.GetSpeciesName]? We're running out of volounteers with emoty stomachs for your ambassadors. "
+ VORE_INSULT_50: "How many times will we have to prove we are better, [owner.GetSpeciesName]? We're running out of volunteers with empty stomachs for your ambassadors. "
 
  #Insult pred to normal (safe)
- VORE_INSULT_51: "Why don't you just relax in our bellies while we sort out all the goverment stuff, [owner.GetSpeciesNamePlural]?"
+ VORE_INSULT_51: "Why don't you just relax in our bellies while we sort out all the government stuff, [owner.GetSpeciesNamePlural]?"
  VORE_INSULT_52: "All that governing seems tiring, [owner.GetSpeciesName]. Why don't you relax within our embrace?"
  VORE_INSULT_53: "Dear [owner.GetSpeciesName], why don't you just slip into our [from.GetSpeciesMouthName]s?"
  VORE_INSULT_54: "Can you send another ambassador? The last one still does not want to leave my stomach."
@@ -78,7 +78,7 @@
 
  #Insult pred anal
  VORE_INSULT_ANAL_01: "You are headed for great things, [owner.GetSpeciesNamePlural] - straight between our asscheeks."
- VORE_INSULT_ANAL_02: "Dear [owner.GetSpeciesNamePlural], we cannot wait untill all of you experience the inside of our colons first hamd."
+ VORE_INSULT_ANAL_02: "Dear [owner.GetSpeciesNamePlural], we cannot wait until all of you experience the inside of our colons first hand."
  VORE_INSULT_ANAL_03: "The very idea of you slowly sliding into my asshole makes me quiver. When will [owner.GetSpeciesNamePlural] accept that is your fate?"
  VORE_INSULT_ANAL_04: "We are getting bored, [owner.GetSpeciesNamePlural] - our assholes cannot wait for you to fill them!"
  VORE_INSULT_ANAL_05: "I wonder, would it take longer for your kind to go in our asses, or for you to come out."

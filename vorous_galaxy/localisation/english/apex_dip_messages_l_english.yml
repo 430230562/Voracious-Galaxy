@@ -68,7 +68,7 @@
  # Motherly_Matriarchs
  UB_HOSTILE_GREETING_01:0 "You hurt everyone around you with your foolish actions, the [Root.GetSpeciesNamePlural] will have nothing to do with you."
  UB_HOSTILE_GREETING_02:0 "All the [From.GetSpeciesName] should be snuggled up in [Root.GetRulerTitle] [Root.GetRulerName]'s womb and converted to [Root.GetSpeciesName]! The galaxy would be better for it."
- UB_HOSTILE_GREETING_03:0 "Your poor attitudes are a dissappointment to the [Root.GetSpeciesName]."
+ UB_HOSTILE_GREETING_03:0 "Your poor attitudes are a disappointment to the [Root.GetSpeciesName]."
  UB_HOSTILE_GREETING_04:0 "We might've been able to coexsist if not for the poor judgement of [From.GetRulerName]."
  UB_HOSTILE_GREETING_05:0 "Despite your past transgressions, we still hold out hope that the [From.GetSpeciesName] can be taught how to live peacefully with their Xeno neighbors."
  UB_HOSTILE_GREETING_06:0 "We simply wish to live peaceful lives, why must you bother us so?"
@@ -105,7 +105,7 @@
  
  UB_WAR_GREETING_01:0 "We do not like fighting, but don't think that means we'll wait to be conquered."
  UB_WAR_GREETING_02:0 "The [Root.GetSpeciesName] are saddened by every death in this war that you continue to wage."
- UB_WAR_GREETING_03:0 "The [Root.GetSpeciesName] know to catch and unbirth your soldiers whenever possible, they will have much more pleasent lives in our empire than they could ever have had in yours."
+ UB_WAR_GREETING_03:0 "The [Root.GetSpeciesName] know to catch and unbirth your soldiers whenever possible, they will have much more pleasant lives in our empire than they could ever have had in yours."
  UB_WAR_GREETING_04:0 "We hold no malice against the [From.GetSpeciesName] for the actions of [From.GetRulerTitle] [From.GetRulerName]. After you are defeated, they will be treated as equals in the empire."
  UB_WAR_GREETING_05:0 "Our soldiers learn more of your tactics with every foe they unbirth. You cannot hope to stand against us for long."
  UB_WAR_GREETING_08:0 "The galaxy will be a much safer place once the [From.GetSpeciesName] threat has been defeated."
@@ -123,7 +123,7 @@
 
    # Peaceful_Prey
  PY_HOSTILE_GREETING_01:0 "The [Root.GetSpeciesName] have no interest in cooperating with your kind."
- PY_HOSTILE_GREETING_02:0 "We [Root.GetSpeciesName] have spent our entire exsistence being hunted, and we have yet to fall. We will survive this too."
+ PY_HOSTILE_GREETING_02:0 "We [Root.GetSpeciesName] have spent our entire existence being hunted, and we have yet to fall. We will survive this too."
  PY_HOSTILE_GREETING_03:0 "It's a shame we couldn't befriend the [From.GetSpeciesName], we always treat violence as a last resort."
  PY_HOSTILE_GREETING_04:0 "The [Root.GetSpeciesName] will not be pushed around by the likes of you."
  PY_HOSTILE_GREETING_05:0 "Ah, our least favorite xenos have come to visit once more..."
@@ -159,7 +159,7 @@
  PY_FRIENDLY_GREETING_05:0 "A more perfect world is within reach now that we can work at it together."
  PY_FRIENDLY_GREETING_06:0 "You should know [From.GetSpeciesName] culture is very popular among the [Root.GetSpeciesName]."
  
- PY_WAR_GREETING_01:0 "The persucutions of the [From.GetSpeciesName] stop here."
+ PY_WAR_GREETING_01:0 "The persecutions of the [From.GetSpeciesName] stop here."
  PY_WAR_GREETING_02:0 "[Root.GetRulerTitle] [Root.GetRulerName] will never let the [Root.GetSpeciesNamePlural] fall into your incompetent hands."
  PY_WAR_GREETING_03:0 "Our people stands united in their resistance to your misguided regime."
  PY_WAR_GREETING_04:0 "The evil that xenos do lives on and on, throughout history."
@@ -169,7 +169,7 @@
  PY_WAR_GREETING_08:0 "This conflict may sow seeds of mistrust between the [Root.GetSpeciesNamePlural] and the [From.GetSpeciesNamePlural] for generations. What could possibly be worth that loss?"
  
  # Vassal greetings
- PY_VASSAL_GREETING_01:0 "We hope to learn much uner the guidance of [From.GetRulerTitle] [From.GetRulerName]."
+ PY_VASSAL_GREETING_01:0 "We hope to learn much under the guidance of [From.GetRulerTitle] [From.GetRulerName]."
  PY_VASSAL_GREETING_DISLOYAL_01:0 "We may serve you now, but the time will come when the [Root.GetSpeciesName] will have suffered too much."
  
  # Declaration of War

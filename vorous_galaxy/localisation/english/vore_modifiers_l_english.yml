@@ -12,7 +12,7 @@
  ##############################################
 
  war_against_vore: "War on vore"
- war_against_vore_name: "§TEnables additional hazzard pay for our law enforcement.\nPop happiness: §R -5%§!\nEnforcer £job_enforcer£ upkeep: §R -2§!£energy£§!\n\n§gAsk Regan how that one played out.§!"
+ war_against_vore_name: "§TEnables additional hazard pay for our law enforcement.\nPop happiness: §R -5%§!\nEnforcer £job_enforcer£ upkeep: §R -2§!£energy£§!\n\n§gAsk Regan how that one played out.§!"
 
  vore_loosey_goosey_vore_1_safe: "Some degeneracy"
  vore_loosey_goosey_vore_1_safe_DESC: "§TPopulus of the planet regularly ignores what would otherwise be considered inproper in our empire. \n\nPop happiness: §G+5%§!\nPlanet production: §R-5%§!§!"

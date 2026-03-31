@@ -125,7 +125,7 @@
  vore_vorny_colonists.9.desc: "§RIt is bad.§! §TIf we do not act as soon as possible, the situation on §K[Root.GetName]§! could permanently stay as dangerous for our citizens as it currently is. We have to act now."
  vore_vorny_colonists.9.name_a: "We can only wait to see how this plays out"
  vore_vorny_colonists.9.desc_a: "§gThings cannot get worse, right?§!"
- vore_vorny_colonists.9.name_b: "Call in the troops: establis martial law"
+ vore_vorny_colonists.9.name_b: "Call in the troops: establish martial law"
  vore_vorny_colonists.9.desc_b: "§RWe are running out of options: this time force must suffice.§!"
 
  vore_vorny_colonists.10.name: "Far, Ungoverned, Frontier - loss"
@@ -162,7 +162,7 @@
  vore_exploration.26.reveal: "§TWery well, they shall be remembered."
 
  vore_exploration.27.name: "Crew member found..."
- vore_exploration.27.desc: "§TWe have recieved a priority message from §K[Root.GetName]§!. \n§TThe crew has found the missing crewmember -or, to be blunt, their remains. A skeleton has been found inside one of the unused compartments. Bone matter analasys has confirmed it is the late crew member. Furthermore, the skeleton was completely covered in a thin layer of dried cum, which has 99.85% match with the DNA profile of lead science officer §K[Leader.GetName]§!§T \n\nFurther investigation into the substances found on the skeleton reveal that the victim was trapped in the officer's anal cavity for an unknow amount of time prior to the disposal. Unfortunately, it seems that the rest of the crew aboard the ship is afraid to confront [Leader.GetName] for fear of reprisal. The damage has already been done, and considering officer's skills, it would be a giant loss for our exploration programme to loose her."
+ vore_exploration.27.desc: "§TWe have received a priority message from §K[Root.GetName]§!. \n§TThe crew has found the missing crew member -or, to be blunt, their remains. A skeleton has been found inside one of the unused compartments. Bone matter analasys has confirmed it is the late crew member. Furthermore, the skeleton was completely covered in a thin layer of dried cum, which has 99.85% match with the DNA profile of lead science officer §K[Leader.GetName]§!§T \n\nFurther investigation into the substances found on the skeleton reveal that the victim was trapped in the officer's anal cavity for an unknow amount of time prior to the disposal. Unfortunately, it seems that the rest of the crew aboard the ship is afraid to confront [Leader.GetName] for fear of reprisal. The damage has already been done, and considering officer's skills, it would be a giant loss for our exploration programme to loose her."
  vore_exploration.27.reveal: "§TUnfortunate, but unsurprising."
 
  # Predatory fauna
