@@ -46,3 +46,20 @@ on_entering_system_fleet = {
         vore_exploration.100
     }
 }
+
+on_leader_level_up{
+    events = {
+        vore_leader_event.20
+        vore_leader_event.21
+        vore_leader_event.22
+        vore_leader_event.23
+        vore_leader_event.30
+        vore_leader_event.31
+        vore_leader_event.32
+        vore_leader_event.33
+        vore_leader_event.40
+        vore_leader_event.41
+        vore_leader_event.42
+        vore_leader_event.43
+    }
+}

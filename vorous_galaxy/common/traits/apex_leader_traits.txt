@@ -37,7 +37,7 @@ trait_governor_apprentice_predator = {
         planet_stability_add = 4
         job_livestock_add = 2
 	}
-	replace_traits = { trait_governor_novice_predator }
+	#replace_traits = { trait_governor_novice_predator }
 }
 
 trait_governor_adept_predator = {
@@ -59,7 +59,7 @@ trait_governor_adept_predator = {
         pop_government_ethic_attraction = 0.15
         job_livestock_add = 3
 	}
-	replace_traits = { trait_governor_apprentice_predator }
+	#replace_traits = { trait_governor_apprentice_predator }
 }
 
 trait_governor_expert_predator = {
@@ -81,7 +81,7 @@ trait_governor_expert_predator = {
         pop_government_ethic_attraction = 0.20
         job_livestock_add = 4
 	}
-	replace_traits = { trait_governor_adept_predator }
+	#replace_traits = { trait_governor_adept_predator }
 }
 
 trait_governor_master_predator = {
@@ -103,7 +103,7 @@ trait_governor_master_predator = {
         pop_government_ethic_attraction = 0.25
         job_livestock_add = 5
 	}
-	replace_traits = { trait_governor_master_predator }
+	#replace_traits = { trait_governor_master_predator }
 }
 
 trait_governor_prey = {
@@ -171,7 +171,7 @@ trait_scientist_apprentice_predator = {
 		ship_anomaly_fail_risk = 0.15
 		ship_speed_mult = 0.10
 	}
-	replace_traits = { trait_scientist_novice_predator }
+	#replace_traits = { trait_scientist_novice_predator }
 }
 
 trait_scientist_adept_predator = {
@@ -192,7 +192,7 @@ trait_scientist_adept_predator = {
 		ship_anomaly_fail_risk = 0.20
 		ship_speed_mult = 0.15
 	}
-	replace_traits = { trait_scientist_apprentice_predator }
+	#replace_traits = { trait_scientist_apprentice_predator }
 }
 
 trait_scientist_expert_predator = {
@@ -213,7 +213,7 @@ trait_scientist_expert_predator = {
 		ship_anomaly_fail_risk = 0.25
 		ship_speed_mult = 0.20
 	}
-	replace_traits = { trait_scientist_adept_predator }
+	#replace_traits = { trait_scientist_adept_predator }
 }
 
 trait_scientist_master_predator = {
@@ -234,7 +234,7 @@ trait_scientist_master_predator = {
 		ship_anomaly_fail_risk = 0.30
 		ship_speed_mult = 0.25
 	}
-	replace_traits = { trait_scientist_expert_predator }
+	#replace_traits = { trait_scientist_expert_predator }
 }
 
 trait_scientist_prey = {
@@ -300,7 +300,7 @@ trait_admiral_apprentice_predator = {
 		ship_disengage_chance_mult = -0.10
 		ship_disengage_chance_reduction = 0.10
 	}
-	replace_traits = { trait_admiral_novice_predator }
+	#replace_traits = { trait_admiral_novice_predator }
 }
 
 trait_admiral_adept_predator = {
@@ -321,7 +321,7 @@ trait_admiral_adept_predator = {
 		ship_disengage_chance_mult = -0.20
 		ship_disengage_chance_reduction = 0.20
 	}
-	replace_traits = { trait_admiral_apprentice_predator }
+	#replace_traits = { trait_admiral_apprentice_predator }
 }
 
 trait_admiral_expert_predator = {
@@ -342,7 +342,7 @@ trait_admiral_expert_predator = {
 		ship_disengage_chance_mult = -0.30
 		ship_disengage_chance_reduction = 0.30
 	}
-	replace_traits = { trait_admiral_adept_predator }
+	#replace_traits = { trait_admiral_adept_predator }
 }
 
 trait_admiral_master_predator = {
@@ -363,7 +363,7 @@ trait_admiral_master_predator = {
 		ship_disengage_chance_mult = -0.40
 		ship_disengage_chance_reduction = 0.40
 	}
-	replace_traits = { trait_admiral_expert_predator }
+	#replace_traits = { trait_admiral_expert_predator }
 }
 
 trait_admiral_prey = {

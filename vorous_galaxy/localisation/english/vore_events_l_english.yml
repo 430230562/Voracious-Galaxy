@@ -70,9 +70,36 @@
  #                LEADER 
  ##############################################
 
-  vore_leader_event.10.name: "A growing concern"
-  vore_leader_event.10.desc: "§TIt would seem that, as of lately, one of our officials - §K[gorger_to_be.GetName]§!, to be precise - [gorger_to_be.GetHasHave] been gaining quite a reputation as of late. \nWhile for many-a-citizen of our empire it is common to see bulging bellies that often kick with struggle from within, [gorger_to_be.GetName] [gorger_to_be.GetHasHave] taken it to a new level, with several assistants being devoured on the daily. \n\n Should this continue, we  fear that it could negatively impact their health - and the goverment budget."
-  vore_leader_event.10.acknowledged: "§TUnderstood, monitor the situation."
+vore_leader_event.10.name: "A growing concern"
+vore_leader_event.10.desc: "§TIt would seem that, as of lately, one of our officials - §K[gorger_to_be.GetName]§!, to be precise - [gorger_to_be.GetHasHave] been gaining quite a reputation as of late. \nWhile for many-a-citizen of our empire it is common to see bulging bellies that often kick with struggle from within, [gorger_to_be.GetName] [gorger_to_be.GetHasHave] taken it to a new level, with several assistants being devoured on the daily. \n\n Should this continue, we  fear that it could negatively impact their health - and the goverment budget."
+vore_leader_event.10.acknowledged: "§TUnderstood, monitor the situation."
+# LEVEL UP EVENTS
+vore_leader_event.20.name: "Level up 1"
+vore_leader_event.20.desc: "[from.GetName] 1->2"
+vore_leader_event.21.name: "Level up 2"
+vore_leader_event.21.desc: "[from.GetName] 2->3"
+vore_leader_event.22.name: "Level up 3"
+vore_leader_event.22.desc: "[from.GetName] 3->4"
+vore_leader_event.23.name: "Level up 4"
+vore_leader_event.23.desc: "[from.GetName] 4->5"
+vore_leader_event.30.name: "Level up 1"
+vore_leader_event.30.desc: "[from.GetName] 1->2"
+vore_leader_event.31.name: "Level up 2"
+vore_leader_event.31.desc: "[from.GetName] 2->3"
+vore_leader_event.32.name: "Level up 3"
+vore_leader_event.32.desc: "[from.GetName] 3->4"
+vore_leader_event.33.name: "Level up 4"
+vore_leader_event.33.desc: "[from.GetName] 4->5"
+vore_leader_event.40.name: "Level up 1"
+vore_leader_event.40.desc: "[from.GetName] 1->2"
+vore_leader_event.41.name: "Level up 2"
+vore_leader_event.41.desc: "[from.GetName] 2->3"
+vore_leader_event.42.name: "Level up 3"
+vore_leader_event.42.desc: "[from.GetName] 3->4"
+vore_leader_event.43.name: "Level up 4"
+vore_leader_event.43.desc: "[from.GetName] 4->5"
+
+
 
  ##############################################
  #                COLONIES
