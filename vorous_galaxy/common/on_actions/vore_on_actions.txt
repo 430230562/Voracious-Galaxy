@@ -47,7 +47,7 @@ on_entering_system_fleet = {
     }
 }
 
-on_leader_level_up{
+on_leader_level_up = {
     events = {
         vore_leader_event.20
         vore_leader_event.21
@@ -62,4 +62,10 @@ on_leader_level_up{
         vore_leader_event.42
         vore_leader_event.43
     }
+}
+
+on_game_start_country = {
+	events = {
+		deity.1
+	}
 }
