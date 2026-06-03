@@ -52,10 +52,13 @@ leader_trait_vore_gorger = {
 
 trait_ruler_voredeity = {
     allowed_origins = { civic_voredeity }
-    cost = 1
+    cost = 0
     modification = no
     immortal_leaders = yes
     hide_age = yes
+	
+	initial = no
+	randomized = no
 
     leader_class = { scientist official commander }
 

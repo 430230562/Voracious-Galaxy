@@ -17,6 +17,7 @@ trait_governor_novice_predator = {
         planet_pops_food_upkeep_mult = -0.05
         job_livestock_add = 1
 	}
+	opposites = {trait_governor_apprentice_predator trait_governor_adept_predator trait_governor_expert_predator trait_governor_master_predator}
 }
 
 trait_governor_apprentice_predator = {
@@ -37,7 +38,12 @@ trait_governor_apprentice_predator = {
         planet_stability_add = 4
         job_livestock_add = 2
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_governor_novice_predator }
+	opposites = {trait_governor_novice_predator trait_governor_adept_predator trait_governor_expert_predator trait_governor_master_predator}
 }
 
 trait_governor_adept_predator = {
@@ -59,7 +65,12 @@ trait_governor_adept_predator = {
         pop_government_ethic_attraction = 0.15
         job_livestock_add = 3
 	}
+	
+	initial = no
+	randomized = no
+
 	#replace_traits = { trait_governor_apprentice_predator }
+	opposites = {trait_governor_novice_predator trait_governor_apprentice_predator trait_governor_expert_predator trait_governor_master_predator}
 }
 
 trait_governor_expert_predator = {
@@ -81,7 +92,12 @@ trait_governor_expert_predator = {
         pop_government_ethic_attraction = 0.20
         job_livestock_add = 4
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_governor_adept_predator }
+	opposites = {trait_governor_novice_predator trait_governor_apprentice_predator trait_governor_adept_predator trait_governor_master_predator}
 }
 
 trait_governor_master_predator = {
@@ -103,7 +119,12 @@ trait_governor_master_predator = {
         pop_government_ethic_attraction = 0.25
         job_livestock_add = 5
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_governor_master_predator }
+	opposites = {trait_governor_novice_predator trait_governor_apprentice_predator trait_governor_adept_predator trait_governor_expert_predator}
 }
 
 trait_governor_prey = {
@@ -151,6 +172,7 @@ trait_scientist_novice_predator = {
 		ship_anomaly_fail_risk = 0.10
 		ship_speed_mult = 0.05
 	}
+	opposites = {trait_scientist_apprentice_predator trait_scientist_adept_predator trait_scientist_expert_predator trait_scientist_master_predator}
 }
 
 trait_scientist_apprentice_predator = {
@@ -171,7 +193,12 @@ trait_scientist_apprentice_predator = {
 		ship_anomaly_fail_risk = 0.15
 		ship_speed_mult = 0.10
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_scientist_novice_predator }
+	opposites = {trait_scientist_novice_predator trait_scientist_adept_predator trait_scientist_expert_predator trait_scientist_master_predator}
 }
 
 trait_scientist_adept_predator = {
@@ -192,7 +219,12 @@ trait_scientist_adept_predator = {
 		ship_anomaly_fail_risk = 0.20
 		ship_speed_mult = 0.15
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_scientist_apprentice_predator }
+	opposites = {trait_scientist_novice_predator trait_scientist_apprentice_predator trait_scientist_expert_predator trait_scientist_master_predator}
 }
 
 trait_scientist_expert_predator = {
@@ -213,7 +245,12 @@ trait_scientist_expert_predator = {
 		ship_anomaly_fail_risk = 0.25
 		ship_speed_mult = 0.20
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_scientist_adept_predator }
+	opposites = {trait_scientist_novice_predator trait_scientist_apprentice_predator trait_scientist_adept_predator trait_scientist_master_predator}
 }
 
 trait_scientist_master_predator = {
@@ -234,7 +271,12 @@ trait_scientist_master_predator = {
 		ship_anomaly_fail_risk = 0.30
 		ship_speed_mult = 0.25
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_scientist_expert_predator }
+	opposites = {trait_scientist_novice_predator trait_scientist_apprentice_predator trait_scientist_adept_predator trait_scientist_expert_predator}
 }
 
 trait_scientist_prey = {
@@ -280,6 +322,7 @@ trait_admiral_novice_predator = {
 		ship_disengage_chance_mult = -0.05
 		ship_disengage_chance_reduction = 0.05
 	}
+	opposites = {trait_admiral_apprentice_predator trait_admiral_adept_predator trait_admiral_expert_predator trait_admiral_master_predator}
 }
 
 trait_admiral_apprentice_predator = {
@@ -300,7 +343,12 @@ trait_admiral_apprentice_predator = {
 		ship_disengage_chance_mult = -0.10
 		ship_disengage_chance_reduction = 0.10
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_admiral_novice_predator }
+	opposites = {trait_admiral_novice_predator trait_admiral_adept_predator trait_admiral_expert_predator trait_admiral_master_predator}
 }
 
 trait_admiral_adept_predator = {
@@ -321,7 +369,12 @@ trait_admiral_adept_predator = {
 		ship_disengage_chance_mult = -0.20
 		ship_disengage_chance_reduction = 0.20
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_admiral_apprentice_predator }
+	opposites = {trait_admiral_novice_predator trait_admiral_apprentice_predator trait_admiral_expert_predator trait_admiral_master_predator}
 }
 
 trait_admiral_expert_predator = {
@@ -342,7 +395,12 @@ trait_admiral_expert_predator = {
 		ship_disengage_chance_mult = -0.30
 		ship_disengage_chance_reduction = 0.30
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_admiral_adept_predator }
+	opposites = {trait_admiral_novice_predator trait_admiral_apprentice_predator trait_admiral_adept_predator trait_admiral_master_predator}
 }
 
 trait_admiral_master_predator = {
@@ -363,7 +421,12 @@ trait_admiral_master_predator = {
 		ship_disengage_chance_mult = -0.40
 		ship_disengage_chance_reduction = 0.40
 	}
+	
+	initial = no
+	randomized = no
+	
 	#replace_traits = { trait_admiral_expert_predator }
+	opposites = {trait_admiral_novice_predator trait_admiral_apprentice_predator trait_admiral_adept_predator trait_admiral_expert_predator}
 }
 
 trait_admiral_prey = {
