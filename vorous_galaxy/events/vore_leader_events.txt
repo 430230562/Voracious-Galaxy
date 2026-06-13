@@ -222,7 +222,7 @@ country_event{
 	}
 
 	option = {
-		name = DELICIOUS
+		name = vore_leader_event.30.ok
 	}
 }
 
@@ -257,7 +257,7 @@ country_event{
 	desc = vore_leader_event.31.desc
 
 	option = {
-		name = OK
+		name = vore_leader_event.31.ok
 	}
 }
 
@@ -292,7 +292,7 @@ country_event{
 	desc = vore_leader_event.32.desc
 
 	option = {
-		name = OK
+		name = vore_leader_event.32.ok
 	}
 }
 
@@ -327,7 +327,7 @@ country_event{
 	desc = vore_leader_event.33.desc
 
 	option = {
-		name = OK
+		name = vore_leader_event.33.ok
 	}
 }
 
@@ -400,7 +400,7 @@ country_event{
 	desc = vore_leader_event.41.desc
 
 	option = {
-		name = OK
+		name = vore_leader_event.41.ok
 	}
 }
 
@@ -435,7 +435,7 @@ country_event{
 	desc = vore_leader_event.42.desc
 
 	option = {
-		name = OK
+		name = vore_leader_event.42.ok
 	}
 }
 
@@ -470,7 +470,7 @@ country_event{
 	desc = vore_leader_event.43.desc
 
 	option = {
-		name = OK
+		name = vore_leader_event.43.ok
 	}
 }
 

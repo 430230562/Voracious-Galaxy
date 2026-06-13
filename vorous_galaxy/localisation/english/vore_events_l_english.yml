@@ -74,6 +74,7 @@ vore_leader_event.10.name: "A growing concern"
 vore_leader_event.10.desc: "§TIt would seem that, as of lately, one of our officials - §K[gorger_to_be.GetName]§!, to be precise - [gorger_to_be.GetHasHave] been gaining quite a reputation as of late. \nWhile for many-a-citizen of our empire it is common to see bulging bellies that often kick with struggle from within, [gorger_to_be.GetName] [gorger_to_be.GetHasHave] taken it to a new level, with several assistants being devoured on the daily. \n\n Should this continue, we  fear that it could negatively impact their health - and the goverment budget."
 vore_leader_event.10.acknowledged: "§TUnderstood, monitor the situation."
 # LEVEL UP EVENTS
+# 20-23 Admiral, 30-33 Scientist, 40-43 Governor
 vore_leader_event.20.name: "Level up 1"
 vore_leader_event.20.desc: "[from.GetName] 1->2"
 vore_leader_event.21.name: "Level up 2"
@@ -82,23 +83,37 @@ vore_leader_event.22.name: "Level up 3"
 vore_leader_event.22.desc: "[from.GetName] 3->4"
 vore_leader_event.23.name: "Level up 4"
 vore_leader_event.23.desc: "[from.GetName] 4->5"
-vore_leader_event.30.name: "Level up 1"
-vore_leader_event.30.desc: "[from.GetName] 1->2"
-vore_leader_event.31.name: "Level up 2"
-vore_leader_event.31.desc: "[from.GetName] 2->3"
-vore_leader_event.32.name: "Level up 3"
-vore_leader_event.32.desc: "[from.GetName] 3->4"
-vore_leader_event.33.name: "Level up 4"
-vore_leader_event.33.desc: "[from.GetName] 4->5"
-vore_leader_event.40.name: "Level up 1"
-vore_leader_event.40.desc: "[from.GetName] 1->2"
-vore_leader_event.41.name: "Level up 2"
-vore_leader_event.41.desc: "[from.GetName] 2->3"
-vore_leader_event.42.name: "Level up 3"
-vore_leader_event.42.desc: "[from.GetName] 3->4"
-vore_leader_event.43.name: "Level up 4"
-vore_leader_event.43.desc: "[from.GetName] 4->5"
 
+vore_leader_event.30.name: "Exploring New Tastes"
+vore_leader_event.30.desc: "A new report has come in from the Science Division. [From.GetName] who has been working with Xenobiology has a few new theories tied to some of the species we have found on our colony planets. However these experiments have been leading to disappearing member of those species we took for study. However [From.GetHerHis] Scientific output is higher.. We will continue to monitor [From.GetHerHim]. "
+vore_leader_event.30.ok: "If their research is beneficial..."
+
+vore_leader_event.31.name: "Finding New Solutions"
+vore_leader_event.31.desc: "[from.GetName]'s research has not only been going well but has actually depended our understanding of the native creatures on a number of planets in our Empire. That being said [From.GetSheHe] recently started working with our negotiation teams on potential new information regarding the artifacts we have recoverd. A number have vanished from the stores and [from.GetName] has put on more weight...."
+vore_leader_event.31.ok: "The research is valuable..."
+
+vore_leader_event.32.name: "Hypothesis ConfirmURRPed"
+vore_leader_event.32.desc: "[from.GetName] is now an adept in [From.GetHerHis] field with [From.GetHerHis] skill proving VERY useful when it comes to chosing planets for colonization. These reports not only show the usual information but breakdowns on local fauna that can be eaten, their tastes, how much they struggle and for how long. Despite the added weight from the artifacts and creatures [from.GetName] now openly consumes while recording notes this information is most useful and has advanced our research in Xenobiology a lot."
+vore_leader_event.32.ok: "A useful Researcher that embraces our way of life"
+
+vore_leader_event.33.name: "Deeper Observations"
+vore_leader_event.33.desc: "[from.GetName] has not only been very productive but now is openly consuming Fauna from various planets in our empire. While this has lead to many species, and a few members of our research crew, going to a gurgling fate, [From.GetSheHe] is now an expert in her field."
+vore_leader_event.33.ok: "Expertise Requires Sacrifice"
+
+vore_leader_event.40.name: "Eating Their Way To The Top"
+vore_leader_event.40.desc: "[From.GetName] has begun a new way of winning the votes of the people. Mysteriously after debates [From.GetHerHis] competition mysteriously vanish and [From.GetSheHe] gains added weight to [From.GetHerHis] \"assets.\" While [From.GetSheHe] assures this is mere coincidence, considering the predatory nature of our people, our sources are certain these \"coincidences\" will continue."
+
+vore_leader_event.41.name: "Hungering For More"
+vore_leader_event.41.desc: "[from.GetName] has become well versed in the voracious art of our people. Expanding [From.GetHerHis] appetite to now include an occasional servant or laborer. The added heft to [From.GetHerHim] has made [From.GetHerHim] much more popular with the more predatory members of our nation, which has only driven to more consumption. At this rate [From.GetSheHe] won't have ANY competition left for [From.GetHerHis] position."
+vore_leader_event.41.ok: "So it is the way of predation"
+
+vore_leader_event.42.name: "Excelling in Hungry Politics"
+vore_leader_event.42.desc: "[from.GetName] has become an Expert in luring those that disagree with them away from public view before devouring them. While they hide the devouring they DON'T hide their massive belly after the fact. They now know that once prey is eating the authorities won't attempt to save them and this has lead to them rising to great heights in their career. Our people are happy to have a political leader that truly embraces the predatory nature of our species and we are happy to have such a skilled political leader."
+vore_leader_event.42.ok: "The Hungriest Always Win"
+
+vore_leader_event.43.name: "Truly a Master of The Craft"
+vore_leader_event.43.desc: "Well, [from.GetName] is now a Master of their field. They no longer hide their appetite and instead consume citizens openly. They know that they are untouchable now with no rivals and no one to challenge them on their craft. Even alien diplomats know to stay on their good side lest they too end up stewing away in their almost always bulging stomach. Speeches they make cap of with belches that cause cheers in the crowds that gather. They are now at the highest reaches of their career and plan to stay there."
+vore_leader_event.43.ok: "A true master at work!"
 
 
  ##############################################
