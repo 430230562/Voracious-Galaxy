@@ -2,62 +2,62 @@
  
 
  ##############################################
- #           EMPIRE MODIFIERS
+ #           帝国修正
  ##############################################
 
- vored_scientist_found: "Scientist remains recently found."
+ vored_scientist_found: "近期发现科学家遗骸"
 
  ##############################################
- #           PLANET MODIFIERS
+ #           行星修正
  ##############################################
 
- war_against_vore: "War on vore"
- war_against_vore_name: "§TEnables additional hazard pay for our law enforcement.\nPop happiness: §R -5%§!\nEnforcer £job_enforcer£ upkeep: §R -2§!£energy£§!\n\n§gAsk Regan how that one played out.§!"
+ war_against_vore: "向吞噬宣战"
+ war_against_vore_name: "§T为执法人员提供额外危险津贴。\n人口幸福度：§R -5%§!\n执法者 £job_enforcer£ 维护费：§R -2§!£energy£§!\n\n§g问问里根那件事后来怎么样了。§!"
 
- vore_loosey_goosey_vore_1_safe: "Some degeneracy"
- vore_loosey_goosey_vore_1_safe_DESC: "§TPopulus of the planet regularly ignores what would otherwise be considered inproper in our empire. \n\nPop happiness: §G+5%§!\nPlanet production: §R-5%§!§!"
- vore_loosey_goosey_vore_2_safe: "Degeneracy normalised"
- vore_loosey_goosey_vore_2_safe_DESC: "§TPopulus of this planet regularly engages in sexual gratification through vore.\n\nPop happiness: §G+15%§!\nPlanet production: §R-10%§!\nUnity £unity£ production: §G+15%§!§!"
- vore_loosey_goosey_vore_3_safe: "Widespread degeneracy"
- vore_loosey_goosey_vore_3_safe_DESC: "§TThere is not a single citizen of this planet that does not engage in vore.\n\nPop happiness: §G+25§!\nPlanet production: §R-15%§!\nUnity £unity£ production: §G+30%§!§!"
- vore_loosey_goosey_vore_1_lethal: "Some predation"
- vore_loosey_goosey_vore_1_lethal_DESC: "§TPredation is practiced on the outskirst of societal norms, but most of the populance ignores it.\n\nPop happiness: §G+5%§!\nPop Growth: §R-10%§!\nSoldier jobs: +1§!"
- vore_loosey_goosey_vore_2_lethal: "Predation normalised"
- vore_loosey_goosey_vore_2_lethal_DESC: "§TPredation is common in all layers of the culture\n\nPop happiness: §G+15%§!\nPop Growth: §R-20%§!\nUnity £unity£ production: §G+50%§!\nSoldier jobs: §G+2§!\nCriminal jobs:§R+2§!§!"
- vore_loosey_goosey_vore_3_lethal: "Widespread predation"
- vore_loosey_goosey_vore_3_lethal_DESC: "§TDue to this planet, predation is the single highest crime in our empire. No one is safe and many elites employ PMC's.\n\nop happiness: §G+25%§!\nPop Growth: §R-30%§!\nUnity £unity£ production: §G+100%§!\nSoldier jobs: §G+5§!\nCriminal jobs:§R+3§!§!"
+ vore_loosey_goosey_vore_1_safe: "些许堕落"
+ vore_loosey_goosey_vore_1_safe_DESC: "§T该星球居民经常无视帝国中本应视为不当的行为。\n\n人口幸福度：§G+5%§!\n星球产出：§R-5%§!§!"
+ vore_loosey_goosey_vore_2_safe: "堕落常态化"
+ vore_loosey_goosey_vore_2_safe_DESC: "§T该星球居民经常通过吞噬行为获取性满足。\n\n人口幸福度：§G+15%§!\n星球产出：§R-10%§!\n凝聚力 £unity£ 产出：§G+15%§!§!"
+ vore_loosey_goosey_vore_3_safe: "堕落横行"
+ vore_loosey_goosey_vore_3_safe_DESC: "§T该星球上没有一个公民不参与吞噬行为。\n\n人口幸福度：§G+25%§!\n星球产出：§R-15%§!\n凝聚力 £unity£ 产出：§G+30%§!§!"
+ vore_loosey_goosey_vore_1_lethal: "些许捕食"
+ vore_loosey_goosey_vore_1_lethal_DESC: "§T捕食行为处于社会规范边缘，但大多数民众对此视而不见。\n\n人口幸福度：§G+5%§!\n人口增长：§R-10%§!\n士兵岗位：+1§!"
+ vore_loosey_goosey_vore_2_lethal: "捕食常态化"
+ vore_loosey_goosey_vore_2_lethal_DESC: "§T捕食行为在文化的各个层面都很普遍。\n\n人口幸福度：§G+15%§!\n人口增长：§R-20%§!\n凝聚力 £unity£ 产出：§G+50%§!\n士兵岗位：§G+2§!\n犯罪岗位：§R+2§!§!"
+ vore_loosey_goosey_vore_3_lethal: "捕食横行"
+ vore_loosey_goosey_vore_3_lethal_DESC: "§T由于该星球的存在，捕食已成为我们帝国中最高的单一犯罪类型。没有人是安全的，许多精英阶层雇佣了私人军事公司。\n\n人口幸福度：§G+25%§!\n人口增长：§R-30%§!\n凝聚力 £unity£ 产出：§G+100%§!\n士兵岗位：§G+5§!\n犯罪岗位：§R+3§!§!"
  
  ####################
- # Static Modifiers #
+ # 静态修正         #
  ####################
  
- # Decisions# 
+ # 决议 #
  
- vore_at_horizon_gate: "Sub-G Parks"
- vore_at_horizon_gate_DESC: ""
+ vore_at_horizon_gate: "地下公园"
+ vore_at_horizon_gate_DESC: "§T在该星球上建立了地下公园，让公民即使在最恶劣的环境中也能享受绿意。"
  
  ##########
- # Civics #
+ # 国民理念 #
  ##########
  
- civic_vore_apex_predator: "Apex Predator"
- civic_vore_apex_predator_DESC: "Does not work trying to fix"
- civic_tooltip_vore_apex_predator_effects: "- £pops£ Consumer goods upkeep decreased by §G30%§!\n- $MOD_ARMY_DAMAGE_MULT$: §G+50%§!"
+ civic_vore_apex_predator: "顶级捕食者"
+ civic_vore_apex_predator_DESC: "暂无法修复"
+ civic_tooltip_vore_apex_predator_effects: "- £pops£ 消费品维护费降低 §G30%§!\n- $MOD_ARMY_DAMAGE_MULT$：§G+50%§!"
  
 ###########
-# Origins #
+# 起源 #
 ###########
 
-# Hivemind #
+# 蜂巢思维 #
 
- origin_vore_predatory_hive: "Predatory Hive"
- origin_vore_predatory_hive_DESC: ""
- origin_tooltip_vore_predatory_hive_effects: ""
+ origin_vore_predatory_hive: "捕食性蜂群"
+ origin_vore_predatory_hive_DESC: "§T这个蜂群思维的存在只有一个目的：捕食、吞噬、成长。其他物种只是猎物。"
+ origin_tooltip_vore_predatory_hive_effects: "§G- 可以通过吞噬其他种群人口来获取资源\n- 对其他物种的外交评价降低\n- 人口增长速度加快§!"
  
- origin_vore_peaceful_hive: "Peaceful Hive"
- origin_vore_peaceful_hive_DESC: ""
- origin_tooltip_vore_peaceful_hive_effects: ""
+ origin_vore_peaceful_hive: "和平蜂群"
+ origin_vore_peaceful_hive_DESC: "§T这个蜂群思维找到了与银河系其他物种共存的平衡点，吞噬行为被仪式化和规范化。"
+ origin_tooltip_vore_peaceful_hive_effects: "§G- 吞噬行为不会自动杀死猎物\n- 与其他帝国的外交评价提高\n- 可以通过仪式化吞噬获得凝聚力§!"
  
  ##############################################
- #               MISCELLANEOUS
+ #               杂项
  ##############################################

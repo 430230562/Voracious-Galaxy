@@ -1,10 +1,8 @@
-﻿l_simp_chinese:
-
- ##############################################
- #              SPECIAL SITES
+﻿ #############################################
+ #              特殊遗址
  ##############################################
 
- #Dolores paragon digsite
- paragon_dolores_digsite: "The Calculator"
- paragon_dolores_digsite.desc: "We have begun the search into the nature of this unknown structure orbiting this broken world."
+ #多洛雷斯典范考古遗址
+ paragon_dolores_digsite: "计算器"
+ paragon_dolores_digsite.desc: "我们已经开始调查这个环绕着破碎世界运转的未知结构的本质。"
  

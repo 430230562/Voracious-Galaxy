@@ -1,5 +1,5 @@
 ﻿l_simp_chinese:
 
- #Martial law (Far Ungoverned Frontier)
- vore_establish_martial_law: "Establish martial law on §K[Root.GetName]§!"
- vore_establish_martial_law_DESC: "§TA swift and harsh action must be taken to ensure the planet doesn't devolve into a lair of crime. We have to uphold our laws by any means necessary!"
+ #戒严令（遥远无序边境）
+ vore_establish_martial_law: "在 §K[Root.GetName]§! 实施戒严令"
+ vore_establish_martial_law_DESC: "§T必须采取迅速而严厉的行动，确保该星球不会堕落成犯罪的巢穴。我们必须不惜一切代价维护我们的法律！"

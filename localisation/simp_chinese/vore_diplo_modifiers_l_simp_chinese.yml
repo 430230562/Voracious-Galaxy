@@ -1,14 +1,13 @@
 ﻿l_simp_chinese:
  
  ##############################################
- #           DIPLOMACY MODIFIERS
+ #           外交修正
  ##############################################
 
- triggered_opinion_vorarephobia_lethal: "Scareed of being eaten."
- triggered_opinion_vorarephobia_safe: "A walking fetish." 
+ triggered_opinion_vorarephobia_lethal: "害怕被吃掉"
+ triggered_opinion_vorarephobia_safe: "行走的恋物癖"
 
- opinion_poor_apology: "Received a poor apology"
- opinion_protecting_their_diplomat: "Angry at out diplomatic incident"
- opinion_actually_insane: "These infidels consider our views insane"
- opinion_decent_apology: "Received a decent apology"
- 
+ opinion_poor_apology: "收到了敷衍的道歉"
+ opinion_protecting_their_diplomat: "对我们的外交事件感到愤怒"
+ opinion_actually_insane: "这些异教徒认为我们的观点很疯狂"
+ opinion_decent_apology: "收到了得体的道歉"
